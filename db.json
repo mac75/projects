@@ -7,7 +7,7 @@
          "email_address": "testingEmail1@mailinator.com"
       },
       "customer2": {
-         "first_name": "John",
+         "first_name": "Johnny",
          "last_name": "Doe",
          "occupation": "Civil Engineer",
          "email_address": "someEmail2@mailinator.com"
