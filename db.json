@@ -1,29 +1,28 @@
 {
-  "squadName" : "Super Hero Squad",
-  "homeTown" : "Metro City",
-  "formed" : 2016,
-  "secretBase" : "Super tower",
-  "active" : true,
-  "members" : [
-    {
-      "name" : "Molecule Man",
-      "age" : 29,
-      "secretIdentity" : "Dan Jukes",
-      "powers" : [
-        "Radiation resistance",
-        "Turning tiny",
-        "Radiation blast"
-      ]
-    },
-    {
-      "name" : "Madame Uppercut",
-      "age" : 39,
-      "secretIdentity" : "Jane Wilson",
-      "powers" : [
-        "Million tonne punch",
-        "Damage resistance",
-        "Superhuman reflexes"
-      ]
-    }    
-  ]
+   "customers":  {
+      "customer1": {
+         "first_name": "Chris",
+         "last_name": "Manson",
+         "occupation": "Web Developer",
+         "email_address": "testingEmail1@mailinator.com"
+      },
+      "customer2": {
+         "first_name": "John",
+         "last_name": "Doe",
+         "occupation": "Civil Engineer",
+         "email_address": "someEmail2@mailinator.com"
+      },
+      "customer3": {
+         "first_name": "Jane",
+         "last_name": "Doe",
+         "occupation": "Pro Gamer",
+         "email_address": "someProGamer@mailinator.com"
+      },
+      "customer4": {
+         "first_name": "Jose",
+         "last_name": "Smith",
+         "occupation": "Standup Comedian",
+         "email_address": "thatFunnyGuy@mailinator.com"
+      }
+   }
 }
